@@ -1,3 +1,7 @@
+<div>
+  <img src="https://github.com/matheusfy/devicons/blob/86f4e772a899fd6f2e0c5cff175317ef1c13805f/killua.gif"/>
+  </div>
+
 ### Hey pequeno gafanhoto! Meu nome é Matheus (conhecido por alguns amigos como Japa). Sou estudante de Eng. de Computação pela UTFPR-PB. Sinta-se a vontade para me adicionar nas redes (: 🐱‍👓
 
 
@@ -27,7 +31,16 @@
 </div>
   
 
+<div style="display: inline_block">
 
+   <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/c/c-original.svg?token=AKE5FVTHGAT27DIYWPRA5P3BDBIOU"/>
+   <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/python/python-original.svg?token=AKE5FVRZR2H33FA6Q3HGKT3BDBI6E"/>
+   <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/java/java-original.svg?token=AKE5FVTWIZX5RECDVWDDD63BDBI7S"/>
+   <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/postgresql/postgresql-original.svg?token=AKE5FVSXAUI6TONYZDS3X5LBDBJBC"/>
+
+  </div>
+  
+  
 <!--
   ícones redes sociais
 -->
