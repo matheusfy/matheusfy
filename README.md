@@ -19,6 +19,14 @@
   </a>
 </div>
 
+<div>
+  <image height="20em" src="https://visitor-badge.glitch.me/badge?page_id=matheusfy"/>
+  <a href=""> 
+  <image height="20em" src="https://img.shields.io/github/followers/matheusfy.svg?style=social&label=Follow&maxAge=2592000"/>  
+  <a />  
+</div>
+  
+
 
 <!--
   ícones redes sociais
