@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Personal project as hobby
 - 🌱 I’m currently learning JavaScript/improving python skills/
-- 🤔 I’m looking for help with back-end development as well front-end development.
+- 🤔 I’m looking for help with back-end development, front-end development as well.
 - 🐱‍🐉 Fun fact: I lived in Japan for 13 years before back to live in Brazil ༼ つ ◕_◕ ༽つ
 - 💬 Feel free to ask me about anything 😊. 
 
