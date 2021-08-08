@@ -28,16 +28,16 @@
     <image height="20em" src="https://img.shields.io/github/followers/matheusfy.svg?style=social&label=Follow&maxAge=2592000"/>  
   </div>
   
-
+<!--
 <div style="display: inline_block">
 
-    <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/c/c-original.svg?token=AKE5FVTHGAT27DIYWPRA5P3BDBIOU"/>
+    <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/c/c-original.svg?token=AKE5FVXD3U3EYLPM37777WDBDBUHY"/>
     <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/python/python-original.svg?token=AKE5FVRZR2H33FA6Q3HGKT3BDBI6E"/>
     <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/java/java-original.svg?token=AKE5FVTWIZX5RECDVWDDD63BDBI7S"/>
     <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/postgresql/postgresql-original.svg?token=AKE5FVSXAUI6TONYZDS3X5LBDBJBC"/>
 
   </div>
-  
+ -->
   
 <!--
   ícones redes sociais
