@@ -34,6 +34,7 @@
     <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/python/python-original.svg"/>
     <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/java/java-original.svg"/>
     <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/postgresql/postgresql-original.svg"/>
+    <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/Delphi/EmbarcaderoIcon.png"/>
   </div>
 
 
