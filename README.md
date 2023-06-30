@@ -2,7 +2,7 @@
     <img src="https://github.com/matheusfy/devicons/blob/86f4e772a899fd6f2e0c5cff175317ef1c13805f/killua.gif"/>
   </div>
 
-### Hey pequeno gafanhoto! Meu nome é Matheus (conhecido por alguns amigos como Japa). Sou estudante de Eng. de Computação pela UTFPR-PB. Sinta-se a vontade para me adicionar nas redes (: 🐱‍👓
+### Hey pequeno gafanhoto! Meu nome é Matheus (conhecido por alguns amigos como Japa). Formando em Eng. de Computação pela UTFPR-PB. Sinta-se a vontade para me adicionar nas redes (: 🐱‍👓
 
 
 - 🔭 I’m currently working on Personal project as hobby
