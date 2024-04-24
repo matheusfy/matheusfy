@@ -23,7 +23,7 @@
   </span>
 
   <span style="font-family: Georgia; font-size: 16px; ">  
-    - Management process for multiple systems and 
+    - Handling new demands from EAB (Ethanol, Sugar, Biomass) business areas and monitoring the process, monitoring multiple systems, vendor management, and addressing EAB system-related tickets as Intern for Raízen S.A. .
   </span>
 </div>
 
@@ -33,7 +33,7 @@
 - <image align="center" height="25" width="20" src="https://raw.githubusercontent.com/matheusfy/devicons/main/javascript/icons8-javascript.svg"/> **JavaScript**
 - <image align="center" height="20" width="20" src="https://raw.githubusercontent.com/matheusfy/devicons/main/c/c-original.svg"/> **C**
 - <image align="center" height="20" width="20" src="https://raw.githubusercontent.com/matheusfy/devicons/main/python/python-original.svg"/> **Python** 
-- <image align="center" height="20" width="20" src="https://raw.githubusercontent.com/matheusfy/devicons/main/java/java-original.svg"/> **Java + Spring** <image align="center" height="20" width="20" src="https://raw.githubusercontent.com/matheusfy/devicons/main/spring-boot/icons8-spring-boot-48.svg"/>
+- <image align="center" height="20" width="20" src="https://raw.githubusercontent.com/matheusfy/devicons/main/java/java-original.svg"/> **Java + Spring** 
 - <image align="center" height="20" width="20" src="https://raw.githubusercontent.com/matheusfy/devicons/main/Delphi/EmbarcaderoIcon.svg"/> **Delphi**
 
 ### Tools and Frameworks
@@ -43,6 +43,7 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img height="40" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/flask/icons8-flask.svg" />
+  <image height="40" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/spring-boot/icons8-spring-boot-48.svg"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" />
