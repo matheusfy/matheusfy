@@ -1,41 +1,56 @@
-<div>
-    <img src="https://github.com/matheusfy/devicons/blob/86f4e772a899fd6f2e0c5cff175317ef1c13805f/killua.gif"/>
-  </div>
-
-### Hey pequeno gafanhoto! Meu nome é Matheus (conhecido por alguns amigos como Japa). Formado em Eng. de Computação pela UTFPR-PB. Sinta-se a vontade para me adicionar nas redes (: 🐱‍👓
+### (My name is Matheus, but many friends call me Japa. I hold a degree in Computer Engineering from UTFPR-PB and I'm excited to share a bit about my journey and experiences) 🐱‍👓
 
 
-- 🔭 I’m currently working on Personal project as hobby
-- 🌱 I’m currently learning JavaScript/improving python skills/
-- 🤔 I’m looking for help with back-end development, front-end development as well.
-- 🐱‍🐉 Fun fact: I lived in Japan for 13 years before back to live in Brazil ༼ つ ◕_◕ ༽つ
-- 💬 Feel free to ask me about anything 😊. 
 
-<!--
-  Gráficos do readme
--->
-<div>
-  <a href="https://github.com/matheusfy/github-readme-stats">
-      <img align="center" height="220em" src="https://github-readme-stats.vercel.app/api?username=matheusfy&theme=vision-friendly-dark&show_icons=true" />
-    </a>
-<!--   <a href="https://github.com/matheusfy/github-readme-stats">
-      <img align="center" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfy&layout=angs_count=8&hide=jupyter%20notebook&card_width=360&theme=vision-friendly-dark"/>
-    </a> -->
-  </div>
+- 🔭 I’m currently working on a personal project as a hobby.
+- 🌱 I'm working independently to improve my programming skills. So, if you have any challenges, please feel free to DM me on any of my social media platforms.
+- 🤔 I’m seeking help with back-end and front-end development.
+- 🐱‍🐉 Fun fact: I lived in Japan for 13 years before returning to Brazil to live. ༼ つ ◕_◕ ༽つ
+- 💬 Feel free to ask me anything! 😊
 
 <div>
-    <image height="20em" src="https://visitor-badge.glitch.me/badge?page_id=matheusfy"/>
-    <image height="20em" src="https://img.shields.io/github/followers/matheusfy.svg?style=social&label=Follow&maxAge=2592000"/>  
-  </div>
+  <image height="20em" src="https://img.shields.io/github/followers/matheusfy.svg?style=social&label=Follow&maxAge=2592000"/>  
+</div>
   
+## Project on which I worked
+<div>
+  <span style="font-family: Georgia; font-size: 16px; ">  
+    - High Fequency Trading System for Nelogica as Back-end developer
+  </span>
 
+  <span style="font-family: Georgia; font-size: 16px; ">  
+    - Fast Electronic Vehicle Charger Project at WEG Drivers & Controls as an Intern
+  </span>
+
+  <span style="font-family: Georgia; font-size: 16px; ">  
+    - Management process for multiple systems and 
+  </span>
+</div>
+
+## Technologies and Tools Used
+
+### Programming Languages:
+- <image align="center" height="25" width="20" src="https://raw.githubusercontent.com/matheusfy/devicons/main/javascript/icons8-javascript.svg"/> **JavaScript**
+- <image align="center" height="20" width="20" src="https://raw.githubusercontent.com/matheusfy/devicons/main/c/c-original.svg"/> **C**
+- <image align="center" height="20" width="20" src="https://raw.githubusercontent.com/matheusfy/devicons/main/python/python-original.svg"/> **Python** 
+- <image align="center" height="20" width="20" src="https://raw.githubusercontent.com/matheusfy/devicons/main/java/java-original.svg"/> **Java + Spring** <image align="center" height="20" width="20" src="https://raw.githubusercontent.com/matheusfy/devicons/main/spring-boot/icons8-spring-boot-48.svg"/>
+- <image align="center" height="20" width="20" src="https://raw.githubusercontent.com/matheusfy/devicons/main/Delphi/EmbarcaderoIcon.svg"/> **Delphi**
+
+### Tools and Frameworks
 <div style="display: inline_block">
-    <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/c/c-original.svg"/>
-    <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/python/python-original.svg"/>
-    <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/java/java-original.svg"/>
-    <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/postgresql/postgresql-original.svg"/>
-    <image align="center" height="30" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/Delphi/EmbarcaderoIcon.svg"/>
-  </div>
+
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img height="40" width="40" src="https://raw.githubusercontent.com/matheusfy/devicons/main/flask/icons8-flask.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+
+          
+</div>
 
 
 <!--
