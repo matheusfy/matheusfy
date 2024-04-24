@@ -27,7 +27,7 @@
   </span>
 </div>
 
-## Technologies and Tools Used
+## Technologies and Tools
 
 ### Programming Languages:
 - <image align="center" height="25" width="20" src="https://raw.githubusercontent.com/matheusfy/devicons/main/javascript/icons8-javascript.svg"/> **JavaScript**
