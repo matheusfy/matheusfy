@@ -17,11 +17,9 @@
   <span style="font-family: Georgia; font-size: 16px; ">  
     - High Fequency Trading System for Nelogica as Back-end developer
   </span>
-
   <span style="font-family: Georgia; font-size: 16px; ">  
     - Fast Electronic Vehicle Charger Project at WEG Drivers & Controls as an Intern
   </span>
-
   <span style="font-family: Georgia; font-size: 16px; ">  
     - Handling new demands from EAB (Ethanol, Sugar, Biomass) business areas and monitoring the process, monitoring multiple systems, vendor management, and addressing EAB system-related tickets as Intern for Raízen S.A. .
   </span>
